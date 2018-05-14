@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    background:lightgrey;
+    height: 100px;
+    padding-top: 15px;
+}
+
+.square{
+    background: rgb(33, 149, 187);
+    height: 25px;
+    width: 25px;
+    padding: 20px;
+    margin-left: 15px;
+    
+    
+    
+}
+
+.white-space{
+    height: 200px;
+}
+
+.white-space p{
+    text-align: center;
+}
+
+.blue-box{
+    background: rgb(33, 149, 187); 
+    height: 100px;    
+}
+
+.light-blue-box{
+    background:lightblue; 
+    height: 100px;    
+}
+
+.light-green-box{
+    background:lightgreen; 
+    height: 100px;    
+}
+
+.yellow-box{
+    background:yellow; 
+    height: 100px;    
+}

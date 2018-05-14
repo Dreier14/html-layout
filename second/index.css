@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 25px;
+  }
+  
+  
+  .rectangle-one {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+  }
+  
+  .first-square {
+    height: 115px;
+    width: 45px;
+    background-color: violet;
+    display: inline-block;
+  }
+  .second-square{
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    background-color: forestgreen;
+    margin: 0 45px;
+  }
+  .first-circle {
+    height: 200px;
+    width: 200px;
+    background-color:lightseagreen;
+    display: inline-block;
+    border-radius: 50%;
+  }
+  
+  .rectangle-two {
+    width: 100%;
+    border: 5px dotted black;
+    box-sizing: border-box ;
+    margin-top: 25px; 
+    padding: 45px;
+  }
+  
+  .box-shadow {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(253, 250, 218);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  }
+  
+  .third-container {
+    width: 50%;
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 105px;
+    box-sizing: border-box ;
+    margin: 30px auto; 
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.25);
+  }
+  
+  .third-container h1 {
+    width: 100%;
+    text-align: center;
+    color:darkblue;
+    letter-spacing: 15px;
+  }

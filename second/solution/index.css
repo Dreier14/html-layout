@@ -4,31 +4,31 @@ body {
 }
 
 
-.container-one {
+.container {
   width: 100%;
   border: 5px solid black;
   padding: 10px;
   box-sizing: border-box ;
 }
 
-.square-one {
-  height: 150px;
+.square {
+  height: 115px;
   width: 50px;
-  background-color: blueviolet;
+  background-color: violet;
   display: inline-block;
 }
-.square-two {
+.square {
   height: 200px;
   width: 400px;
   display: inline-block;
-  background-color: forestgreen;
+  background-color: green;
   margin: 0 50px;
 }
-.circle-one {
+.circle {
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  background-color: skyblue;
+  background-color: blue;
   display: inline-block;
 }
 
@@ -43,7 +43,7 @@ body {
 .box-shadow {
   width: 100%;
   height: 200px;
-  background-color: lemonchiffon;
+  background-color: rgb(240, 234, 179);
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
@@ -52,7 +52,7 @@ body {
 .container-three {
   width: 50%;
   border: 1px solid #ccc;
-  background-color: white;
+  background-color: rgb(243, 205, 205);
   padding: 100px;
   box-sizing: border-box ;
   margin: 25px auto; 
